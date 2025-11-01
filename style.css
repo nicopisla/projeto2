@@ -1,0 +1,26 @@
+body{
+    gap: 10px;
+    display: flex;
+    background-color: rgb(185, 185, 185);
+}
+.card{
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(236, 236, 236);
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    color: black;
+    width: 200px;
+    height: 300px;
+}
+.imagem img{
+    height: 200px;
+}
